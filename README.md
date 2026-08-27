@@ -315,6 +315,7 @@ QR code scanning project repository.
 
 A learning repository documenting Internet of Things concepts and experiments.
 
+
 ### Topics
 
 - 🌐 What is IoT?
@@ -324,6 +325,18 @@ A learning repository documenting Internet of Things concepts and experiments.
 - 📚 Multi-day learning documentation
 
 <a href="https://github.com/dev-l-k/IOT-Class-Science-Fair-">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+---
+## 🔌 AEROSPEED
+
+An app that can measure your data speed
+
+
+<a href="https://project974403.github.io/Fast">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-38BDF8?style=for-the-badge"/>
+</a><a href="https://github.com/project974403/Fast">
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
