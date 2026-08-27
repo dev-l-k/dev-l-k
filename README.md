@@ -9,6 +9,9 @@
 </a>
 
 <br/>
+<a href="https://dev-l-k.github.io/PORTFOLIO/">
+  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
 
 <a href="https://github.com/dev-l-k">
   <img src="https://img.shields.io/badge/GitHub-dev--l--k-181717?style=for-the-badge&logo=github&logoColor=white"/>
