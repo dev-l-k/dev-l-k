@@ -155,7 +155,7 @@ A URL shortening application with a frontend interface and serverless API struct
 `HTML` • `JavaScript` • `API` • `Vercel`
 
 <p>
-<a href="https://short-url-one-ochre.vercel.app">
+<a href="https://origamilink.vercel.app">
 <img src="https://img.shields.io/badge/▲_Live_on_Vercel-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
