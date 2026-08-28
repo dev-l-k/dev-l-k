@@ -108,11 +108,11 @@ A sophisticated browser-based chess engine with a modern UI and multiple AI diff
 `HTML5` • `CSS3` • `JavaScript` • `Stockfish.js`
 
 <p>
-<a href="https://project3421699.github.io/chess">
-<img src="https://img.shields.io/badge/🌐_Live_Demo-38BDF8?style=for-the-badge"/>
+<a href="https://chess-by-privatedart.vercel.app">
+<img src="https://img.shields.io/badge/▲_Live_on_Vercel-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="https://github.com/project3421699/chess">
+<a href="https://github.com/project3421699/Chess2.0">
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
