@@ -295,6 +295,9 @@ An Android Studio / AI Studio application project with Gemini API configuration.
 
 `Android` • `Kotlin` • `Gradle` • `Gemini API` • `AI Studio`
 
+<a href="https://dev-l-k.github.io/APKs">
+<img src="https://img.shields.io/badge/Install_App-38BDF8?style=for-the-badge"/>
+</a>
 <a href="https://github.com/test3421699/BT">
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
 </a>
@@ -337,6 +340,18 @@ An app that can measure your data speed
 <a href="https://project974403.github.io/Fast">
 <img src="https://img.shields.io/badge/🌐_Live_Demo-38BDF8?style=for-the-badge"/>
 </a><a href="https://github.com/project974403/Fast">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+---
+## StudyMate Pro
+
+An Ai powered study companion that can be powered using your own Gemini/Openrouter Api key
+
+
+<a href="https://dev-l-k.github.io/APKs">
+<img src="https://img.shields.io/badge/Install_App-38BDF8?style=for-the-badge"/>
+</a><a href="https://github.com/test3421699/StudyMateV2">
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
